@@ -1,3 +1,23 @@
-Tarea 2 Lp
-Nicolás Sebastián Orellana Ortiz 201473558-8
-Francisco Javier Rousseau Riveros 201573546-8
+# Tarea-2-LP
+Tarea N° 2 LP 
+  
+## *Nota: 100*  
+  
+* Francisco Rousseau  
+* 201573546-8
+
+
+**Nota:** Existen 12 Warnings pero la tarea no contemplaba los warnings por lo que no hubo descuento.
+
+## Metodo de compilacion  
+
+```
+make  
+```
+o
+```
+make main
+```
+
+## Para ejecutar:  
+Usar ./exe para ambos casos.
