@@ -14,7 +14,7 @@ Tarea N° 2 LP
 ```
 make  
 ```
-o
+o también 
 ```
 make main
 ```
