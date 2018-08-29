@@ -1,9 +1,9 @@
 
 CC=gcc
 
-default:exe
+default: main
 
-exe: main.o Empleado.o lista.o Local.o Mueble.o
+main: main.o Empleado.o lista.o Local.o Mueble.o
 	$(CC) $^ -o $@
 
 %.o: %.c
