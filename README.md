@@ -21,3 +21,9 @@ make main
 
 ## Para ejecutar:  
 Usar ./exe para ambos casos.
+
+## Para limpiar:
+Para limpiar los archivos .o utilizar
+```
+make clean
+```
